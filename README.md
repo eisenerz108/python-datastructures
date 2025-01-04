@@ -1,7 +1,4 @@
-# python-datastructures-campusx
-From CampusZ
-
-
+# Data Structures
 
 * Time Complexity
 * LinkedList
